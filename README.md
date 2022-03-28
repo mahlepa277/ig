@@ -4,7 +4,7 @@ $ pkg install python2
 
 $ pkg install git
 
-$ git clone https://github.com/crackige/ig
+$ git clone https://github.com/mahlepa277/ig
 
 $ pip2 install requests bs4
 
